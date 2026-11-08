@@ -12,4 +12,4 @@
 
 This is an independent research project. When contributing, specify the historical system generation, primary source, verified claims versus inferences, reproducible tests, and limitations. Do not submit proprietary railway source code, credentials, real passenger data, or material obtained through unauthorized access.
 
-ライセンスは所有者がまだ選定していません。現時点では、第三者による改変・再配布の一般的な権利を付与するものではありません。
+独自に作成したコード・テスト・CIなどのソフトウェア寄与は `Apache-2.0`、文書・仕様・研究記述は `CC-BY-4.0` を適用する。詳細は [LICENSE](LICENSE) と [NOTICE](NOTICE)。第三者の著作物は持ち込まず、引用や参考資料の出所・使用条件を明示する。寄与者は、提案する成果物について当該ライセンスの下で提供する権限を持つこと。

@@ -54,5 +54,14 @@ This repository is an **independent, source-grounded reconstruction study** of t
 
 The name MARS refers to the historical railway system and is used here for identification and research. It is a trademark of Railway Information Systems Co., Ltd. This project has no affiliation with JR Group, Railway Information Systems, or Hitachi.
 
-**License:** Not yet selected by the repository owner. Publication does not imply an open-source license or permission to reuse this code.
+## License / ライセンス
+
+本プロジェクトが独自に作成した成果物は、既存の研究リポジトリと同様に**種類別のライセンス**を適用する。
+
+- **ソースコード・テスト・CI**：Apache License 2.0（`Apache-2.0`）
+- **仕様・設計・研究記述・README**：Creative Commons Attribution 4.0 International（`CC-BY-4.0`）
+
+Copyright 2026 がっちむち♂。適用範囲・帰属表示・原典の権利留保は [LICENSE](LICENSE)、[LICENSE-APACHE-2.0](LICENSE-APACHE-2.0)、[LICENSE-CC-BY-4.0](LICENSE-CC-BY-4.0)、[NOTICE](NOTICE) を参照。これは全ファイルに対してどちらかのライセンスを任意に選べる二重ライセンスではない。
+
+Historical papers, source quotations, diagrams, third-party code and the rights in the original MARS systems are **not** relicensed by this repository. These licenses apply only to this project's independently authored works.
 
