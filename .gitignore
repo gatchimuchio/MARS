@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+.venv/
+venv/
+lab-state.json
+lab-state.json.lock
+*.lock
+.DS_Store
+*.tmp
+

@@ -1,0 +1,29 @@
+name: MARS experimental conformance
+
+on:
+  push:
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  mars101-logical:
+    name: MARS-101 logical experiment
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        python-version: ['3.12', '3.13']
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-python@v7
+        with:
+          python-version: ${{ matrix.python-version }}
+      - name: Full-system checks
+        working-directory: experiments/mars101-logical
+        run: python -m unittest discover -s tests -v
+      - name: End-to-end demonstration
+        working-directory: experiments/mars101-logical
+        run: python mars101_lab.py demo
+
