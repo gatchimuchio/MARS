@@ -8,6 +8,17 @@ permissions:
   contents: read
 
 jobs:
+  source-archive-contract:
+    name: Original-source provenance and archive contract
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-python@v7
+        with:
+          python-version: '3.12'
+      - name: Verify source identities and archive metadata (offline)
+        run: python -m unittest discover -s tools/tests -v
+
   mars101-logical:
     name: MARS-101 logical experiment
     runs-on: ubuntu-latest

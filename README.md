@@ -31,6 +31,14 @@ MARS-1 は固定論理回路、MARS-101 はプログラム内蔵方式であり�
 
 1964年の日立評論MARS-101特集**全9論文**、1961年のMARS-1原著、MARS-105の信頼性・拡張設計、301の端局設計、後年の501/505、開発当事者の証言などを統合。出典ごとの事実、要求→技術選択の因果、故障・停止・復旧、現場試運転、年代・能力値の齟齬、原機再現に必要な追加資料を整理した。本文未取得の関連論文も区別して登録している。
 
+**資料の正本は分析ではなく原文。** 初回の分析には証言者の人名を3件誤記していたため、原典PDFの表紙で訂正した。分析だけを保存して終える運用を廃止し、公開URL・取得時のSHA-256・原資料の確認ページ・原文のローカル保全手順を記録した。
+
+- [原文PDF・HTMLの保全方法と実際の取得記録（35件）](sources/README.md)
+- [原典SHA-256・バイト長・取得URLの固定台帳](sources/originals.lock.json)
+- [分析命題と原文ページの突合索引・誤記訂正](docs/research/EVIDENCE_CROSSWALK_2026-11-09.md)
+
+公開GitHubに第三者のPDF本文は再配布しない。登録済み原資料は取得プログラムによりそのままローカル保存でき、版が変わった場合もハッシュで検出する。
+
 - [史料登録簿と未取得資料一覧](docs/SOURCE_REGISTER.md)
 - [原理を再現する際の同一性と未確定事項](docs/RECONSTRUCTION_BOUNDARIES.md)
 
@@ -48,6 +56,7 @@ python3 -m unittest discover -s tests -v
 - [原設計・再現・推定の区別](docs/RECONSTRUCTION_BOUNDARIES.md)
 - [一次資料と確認事項の登録簿](docs/SOURCE_REGISTER.md)
 - [資料分析・工学的知見・次の研究課題](docs/research/HISTORICAL_ENGINEERING_AUDIT_2026-11-09.md)
+- [原典・ページ・分析の突合](docs/research/EVIDENCE_CROSSWALK_2026-11-09.md)
 - [言語非依存の検証契約](docs/CONFORMANCE_CONTRACT.md)
 - [多言語比較の実験方法](docs/MULTILANGUAGE_PROTOCOL.md)
 - [設計判断の記録](docs/DECISIONS.md)

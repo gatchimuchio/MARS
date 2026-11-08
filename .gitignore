@@ -9,4 +9,6 @@ lab-state.json.lock
 *.lock
 .DS_Store
 *.tmp
+# 原典のPDF/HTML本体は研究者個人のローカルに保存し、公開Gitへ再配布しない。
+sources/_local_originals/
 

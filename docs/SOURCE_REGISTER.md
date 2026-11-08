@@ -2,6 +2,8 @@
 
 「資料の内容」と「そこから導く実験の命題」を分離する。公開資料は原典優先、外部からの説明・推測で代替しない。
 
+**原文の再確認**：[原典取得・保全手順](../sources/README.md) ／ [取得したS01–S35の全35件のSHA-256・サイズ・原URL](../sources/originals.lock.json) ／ [主張と原文ページの突合索引](research/EVIDENCE_CROSSWALK_2026-11-09.md)。原典が正本、分析レポートは派生物。第三者原典そのものは公開GitHubに再配布しない。
+
 | ID | 原典・発行者 | 主な確認対象 | 対象世代 |
 |---|---|---|---|
 | S01 | [MARS-101座席予約の実時間処理方式の基本構想](https://www.hitachihyoron.com/jp/pdf/1964/06/1964_06_18.pdf)、日立評論46巻6号、1964 | 座席の時間区間在庫、TC/FC/SC/TRC、ビットパターン、待ち行列・シミュレーション、二重照合・記録 | 101 |
@@ -20,7 +22,7 @@
 | S14 | [MARS-101座席予約操作プログラム](https://www.hitachihyoron.com/jp/pdf/1964/06/1964_06_20.pdf)、日立評論、1964 | 運用保守プログラム、系間ファイル差分照合、手動確認・更新 | 101 |
 | S15 | [MARS-101座席予約用電信交換装置](https://www.hitachihyoron.com/jp/pdf/1964/06/1964_06_22.pdf)、日立評論、1964 | 電信交換・端局の集線、回線障害と保守試験 | 101 |
 | S16 | [日立評論1964年6号目次「座席予約システム特集」](https://www.hitachihyoron.com/jp/archive/1960s/1964/06.html)、日立評論、1964 | 特集号の**全9論文**の母集団確定（S01–S05＋S12–S15） | 101 |
-| S17 | [MARS-1の設計に関する原著論文](https://www.hitachihyoron.com/jp/pdf/1961/ex39/1961_ex_39_09.pdf)、日立評論増刊、1961 | 専用座席予約機の基本方式、磁気ドラム・論理回路・運用構想 | 1 |
+| S17 | [座席予約用電子計算装置MARS-1について](https://www.hitachihyoron.com/jp/pdf/1961/ex39/1961_ex_39_09.pdf)、穂坂衛・大野豊ほか、日立評論増刊、1961 | 専用座席予約機の基本方式、磁気ドラム・論理回路・運用構想 | 1 |
 | S18 | [MARS-105座席予約端局装置の設計報告](https://www.hitachihyoron.com/jp/pdf/1974/02/1974_02_06.pdf)、日立評論、1974 | 端局の入力方式・カードと接点、保守・運用 | 105 |
 | S19 | [MARS-105信頼性設計報告](https://www.hitachihyoron.com/jp/pdf/1974/04/1974_04_15.pdf)、日立評論、1974 | ファイル二重化、異常列車の発売停止と復旧、冗長化 | 105 |
 | S20 | [MARS-105システム拡張・構成に関する報告](https://www.hitachihyoron.com/jp/pdf/1975/09/1975_09_03.pdf)、日立評論、1975 | タンデムCC/FC、共有ファイルとの比較、競合・増設と経済性 | 105 |
@@ -34,10 +36,10 @@
 | S28 | [MARS-301構成・納入に関する報告](https://www.hitachihyoron.com/jp/pdf/1986/01/1986_01_04.pdf)、日立評論、1986 | CCS/SRS/DMS、装置冗長性、システム化 | 301 |
 | S29 | [オンラインシステムの動向と評価](https://www.hitachihyoron.com/jp/pdf/1975/09/1975_09_02.pdf)、日立評論、1975 | MARS各世代の主機、記憶・OS、ソフト方式、営業化時期の比較表 | 1–105 |
 | S30 | [MARS-105稼働・移行に関する報告](https://www.hitachihyoron.com/jp/pdf/1974/01/1974_01_06.pdf)、日立評論、1974 | 1972年9・12月～1973年1月の段階切替 | 105 |
-| S31 | [保坂守・証言/回想](https://museum.ipsj.or.jp/guide/pdf/magazine/IPSJ-MGN520938.pdf)、情報処理学会誌、2011 | MARS-1から101への問題設定、窓口視察、木片入力、部門横断の開発の証言 | 1/101 |
-| S32 | [小野豊・証言/回想](https://museum.ipsj.or.jp/guide/pdf/magazine/IPSJ-MGN540722.pdf)、情報処理学会誌、2013 | MARS-1磁気ドラム同期探索、専用機の限界、101への転換の証言 | 1/101 |
-| S33 | [大関正則・証言/回想](https://museum.ipsj.or.jp/guide/pdf/magazine/IPSJ-MGN541015.pdf)、情報処理学会誌、2013 | 105の総合設計チーム、需要増・容量と設備増強の証言 | 103–105 |
-| S34 | [保坂守の技術史略歴](https://museum.ipsj.or.jp/pioneer/hosaka.html)、情報処理学会 | 証言者の経歴・担当範囲の照合 | 1/101 |
+| S31 | [穂坂衛氏インタビュー](https://museum.ipsj.or.jp/guide/pdf/magazine/IPSJ-MGN520938.pdf)、情報処理学会誌、2011 | MARS-1から101への問題設定、窓口視察、木片入力、部門横断の開発の証言 | 1/101 |
+| S32 | [大野豊氏インタビュー](https://museum.ipsj.or.jp/guide/pdf/magazine/IPSJ-MGN540722.pdf)、情報処理学会誌、2013 | MARS-1磁気ドラム同期探索、専用機の限界、101への転換の証言 | 1/101 |
+| S33 | [尾関雅則氏インタビュー](https://museum.ipsj.or.jp/guide/pdf/magazine/IPSJ-MGN541015.pdf)、情報処理学会誌、2013 | 105の総合設計チーム、需要増・容量と設備増強の証言 | 103–105 |
+| S34 | [穂坂衛の技術史略歴](https://museum.ipsj.or.jp/pioneer/hosaka.html)、情報処理学会 | 証言者の経歴・担当範囲の照合 | 1/101 |
 | S35 | [MARS-101の博物館展示](https://www.kahaku.go.jp/exhibitions/vm/past_parmanent/rikou/computer/MARS101.html)、国立科学博物館 | 収蔵機の写真・機能・能力表記（時点明示なし） | 101 |
 
 ## 本文未取得・書誌情報のみの関連史料（調査継続）
@@ -46,7 +48,7 @@
 
 | ID | 文献と所在 | 調査上の用途 | 状態 |
 |---|---|---|---|
-| P01 | [保坂守のMARS回想（1983）](https://ipsj.ixsq.nii.ac.jp/records/6267)、情報処理学会 | 2011年の後年証言と同一人物の早期記録を照合 | 本文未取得 |
+| P01 | [穂坂衛のMARS回想（1983）](https://ipsj.ixsq.nii.ac.jp/records/6267)、情報処理学会 | 2011年の後年証言と同一人物の早期記録を照合 | 本文未取得 |
 | P02 | [MARS-105設計論文（第1報、1974）](https://ipsj.ixsq.nii.ac.jp/records/7866)、情報処理学会 | 当時のシステム設計の詳細 | 本文未取得 |
 | P03 | [MARS-105ソフトウェア設計論文（第2報、1974）](https://ipsj.ixsq.nii.ac.jp/records/7855)、情報処理学会 | 制御プログラム・使用言語の詳細 | 本文未取得 |
 | P04 | [MARSシステム運用管理論文（1991）](https://ipsj.ixsq.nii.ac.jp/records/39826)、情報処理学会 | 実運用の変更・制御・責任境界 | 本文未取得 |
@@ -56,6 +58,7 @@
 ## 分析レポート
 
 - [2026-11-09 MARS史料総合監査：失われつつある設計知の再構成](research/HISTORICAL_ENGINEERING_AUDIT_2026-11-09.md) — 各資料の寄与、世代ごとの設計判断、史料齟齬、再現実験への変換、未解明項目を記録。
+- [2026-11-09 原典・ページ・命題の突合索引](research/EVIDENCE_CROSSWALK_2026-11-09.md) — 必要な主張から原文へ戻るための索引、初回分析の誤記訂正と原因。
 
 ## 読み替え禁止の例
 

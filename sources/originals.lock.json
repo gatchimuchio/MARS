@@ -1,0 +1,495 @@
+{
+  "schema_version": 1,
+  "sources": {
+    "S01": {
+      "captures": [
+        {
+          "bytes": 4506201,
+          "final_url": "https://www.hitachihyoron.com/jp/pdf/1964/06/1964_06_18.pdf",
+          "local_object": "objects/b9e3ed029bc041f13f159f5f8a7f3d4271f7c4b3e35ebd718e7c4c6cec546dd2.pdf",
+          "media_type": "application/pdf",
+          "retrieved_at_utc": "2026-11-08T23:40:01+00:00",
+          "sha256": "b9e3ed029bc041f13f159f5f8a7f3d4271f7c4b3e35ebd718e7c4c6cec546dd2"
+        }
+      ],
+      "title": "MARS-101座席予約の実時間処理方式の基本構想",
+      "url": "https://www.hitachihyoron.com/jp/pdf/1964/06/1964_06_18.pdf"
+    },
+    "S02": {
+      "captures": [
+        {
+          "bytes": 4099577,
+          "final_url": "https://www.hitachihyoron.com/jp/pdf/1964/06/1964_06_19.pdf",
+          "local_object": "objects/37eb93e92fc6e47e05c55a0628dbad14a2d326800bebab29a171fc3a2300ca06.pdf",
+          "media_type": "application/pdf",
+          "retrieved_at_utc": "2026-11-08T23:40:01+00:00",
+          "sha256": "37eb93e92fc6e47e05c55a0628dbad14a2d326800bebab29a171fc3a2300ca06"
+        }
+      ],
+      "title": "MARS-101座席予約システム用リアルタイムプログラム",
+      "url": "https://www.hitachihyoron.com/jp/pdf/1964/06/1964_06_19.pdf"
+    },
+    "S03": {
+      "captures": [
+        {
+          "bytes": 5671621,
+          "final_url": "https://www.hitachihyoron.com/jp/pdf/1964/06/1964_06_21.pdf",
+          "local_object": "objects/5214b9872a1cd479a73981dfe66571eee00243425588c09612c781a39b87360f.pdf",
+          "media_type": "application/pdf",
+          "retrieved_at_utc": "2026-11-08T23:40:01+00:00",
+          "sha256": "5214b9872a1cd479a73981dfe66571eee00243425588c09612c781a39b87360f"
+        }
+      ],
+      "title": "MARS-101座席予約中央処理装置",
+      "url": "https://www.hitachihyoron.com/jp/pdf/1964/06/1964_06_21.pdf"
+    },
+    "S04": {
+      "captures": [
+        {
+          "bytes": 5518669,
+          "final_url": "https://www.hitachihyoron.com/jp/pdf/1964/06/1964_06_23.pdf",
+          "local_object": "objects/0c93daf6223a7d7a866c70a3669c1432e419e0f9b81aec0cce0332c218c13d0b.pdf",
+          "media_type": "application/pdf",
+          "retrieved_at_utc": "2026-11-08T23:40:01+00:00",
+          "sha256": "0c93daf6223a7d7a866c70a3669c1432e419e0f9b81aec0cce0332c218c13d0b"
+        }
+      ],
+      "title": "MARS-101座席予約用端局装置",
+      "url": "https://www.hitachihyoron.com/jp/pdf/1964/06/1964_06_23.pdf"
+    },
+    "S05": {
+      "captures": [
+        {
+          "bytes": 5476037,
+          "final_url": "https://www.hitachihyoron.com/jp/pdf/1964/06/1964_06_24.pdf",
+          "local_object": "objects/dd940e08d475c1936f858cf8ef781dcb35593569bd41b29f71c30df3cdaabe56.pdf",
+          "media_type": "application/pdf",
+          "retrieved_at_utc": "2026-11-08T23:39:42+00:00",
+          "sha256": "dd940e08d475c1936f858cf8ef781dcb35593569bd41b29f71c30df3cdaabe56"
+        }
+      ],
+      "title": "MARS-101座席予約自動システム建設工事",
+      "url": "https://www.hitachihyoron.com/jp/pdf/1964/06/1964_06_24.pdf"
+    },
+    "S06": {
+      "captures": [
+        {
+          "bytes": 870066,
+          "final_url": "https://www.jstage.jst.go.jp/article/ieejjournal1888/94/2/94_2_101/_pdf",
+          "local_object": "objects/03e8cf7301ca666a7fc494a88b25dd40676faeafbcd0453317b05c211ed59415.pdf",
+          "media_type": "application/pdf",
+          "retrieved_at_utc": "2026-11-08T23:40:09+00:00",
+          "sha256": "03e8cf7301ca666a7fc494a88b25dd40676faeafbcd0453317b05c211ed59415"
+        }
+      ],
+      "title": "国鉄の座席予約システム―マルス105システム",
+      "url": "https://www.jstage.jst.go.jp/article/ieejjournal1888/94/2/94_2_101/_pdf"
+    },
+    "S07": {
+      "captures": [
+        {
+          "bytes": 10912,
+          "final_url": "https://museum.ipsj.or.jp/heritage/MARS-101.html",
+          "local_object": "objects/ed7db87f50a24135805224ba27088561278cc7acd45217d2cd62c1c46a4afceb.html",
+          "media_type": "text/html",
+          "retrieved_at_utc": "2026-11-08T23:40:06+00:00",
+          "sha256": "ed7db87f50a24135805224ba27088561278cc7acd45217d2cd62c1c46a4afceb"
+        }
+      ],
+      "title": "MARS-101",
+      "url": "https://museum.ipsj.or.jp/heritage/MARS-101.html"
+    },
+    "S08": {
+      "captures": [
+        {
+          "bytes": 26572,
+          "final_url": "https://www.jrs.co.jp/guideline/mars/",
+          "local_object": "objects/2c8a42f3498ed3fa8a66fd87e4eb34c3017d7406aced10e5dc50be354898793f.html",
+          "media_type": "text/html",
+          "retrieved_at_utc": "2026-11-08T23:40:08+00:00",
+          "sha256": "2c8a42f3498ed3fa8a66fd87e4eb34c3017d7406aced10e5dc50be354898793f"
+        }
+      ],
+      "title": "MARSの歴史と変遷",
+      "url": "https://www.jrs.co.jp/guideline/mars/"
+    },
+    "S09": {
+      "captures": [
+        {
+          "bytes": 1201098,
+          "final_url": "https://www.cobol.gr.jp/wp-content/uploads/2024/11/05-3.pdf",
+          "local_object": "objects/9d57326946f9959398136b56566ac0ddb511e78696432f08adf3bd8271874b7b.pdf",
+          "media_type": "application/pdf",
+          "retrieved_at_utc": "2026-11-08T23:40:12+00:00",
+          "sha256": "9d57326946f9959398136b56566ac0ddb511e78696432f08adf3bd8271874b7b"
+        }
+      ],
+      "title": "JRシステムでのCOBOL–XML連携事例",
+      "url": "https://www.cobol.gr.jp/wp-content/uploads/2024/11/05-3.pdf"
+    },
+    "S10": {
+      "captures": [
+        {
+          "bytes": 30311,
+          "final_url": "https://www.hitachi.co.jp/Prod/comp/soft1/casestudy/contents/jr/index.html",
+          "local_object": "objects/5eed7efc54e4a75a365196e21f3e6b7d0431449501579f5bb04638de64d35910.html",
+          "media_type": "text/html",
+          "retrieved_at_utc": "2026-11-08T23:40:12+00:00",
+          "sha256": "5eed7efc54e4a75a365196e21f3e6b7d0431449501579f5bb04638de64d35910"
+        }
+      ],
+      "title": "MARS 501構築事例",
+      "url": "https://www.hitachi.co.jp/Prod/comp/soft1/casestudy/contents/jr/index.html"
+    },
+    "S11": {
+      "captures": [
+        {
+          "bytes": 20481,
+          "final_url": "https://www.hitachi.co.jp/Prod/comp/soft1/hirdb/30th_anniversary/article/index.html",
+          "local_object": "objects/dd30723d13ab23613008151f294b0285a937034b329592fd979ee9c25952e3e5.html",
+          "media_type": "text/html",
+          "retrieved_at_utc": "2026-11-08T23:40:12+00:00",
+          "sha256": "dd30723d13ab23613008151f294b0285a937034b329592fd979ee9c25952e3e5"
+        }
+      ],
+      "title": "HiRDB 30周年対談",
+      "url": "https://www.hitachi.co.jp/Prod/comp/soft1/hirdb/30th_anniversary/article/index.html"
+    },
+    "S12": {
+      "captures": [
+        {
+          "bytes": 2755807,
+          "final_url": "https://www.hitachihyoron.com/jp/pdf/1964/06/1964_06_16.pdf",
+          "local_object": "objects/f91e61790e1bda4eb3d6d7d929a5ff42702602be0b612fda180b7b5369ee8924.pdf",
+          "media_type": "application/pdf",
+          "retrieved_at_utc": "2026-11-08T23:40:14+00:00",
+          "sha256": "f91e61790e1bda4eb3d6d7d929a5ff42702602be0b612fda180b7b5369ee8924"
+        }
+      ],
+      "title": "座席予約自動化の展望",
+      "url": "https://www.hitachihyoron.com/jp/pdf/1964/06/1964_06_16.pdf"
+    },
+    "S13": {
+      "captures": [
+        {
+          "bytes": 3515998,
+          "final_url": "https://www.hitachihyoron.com/jp/pdf/1964/06/1964_06_17.pdf",
+          "local_object": "objects/c5e254def40abcd8503159a5102e7ea66de354cedda153688bb911955aaf061c.pdf",
+          "media_type": "application/pdf",
+          "retrieved_at_utc": "2026-11-08T23:40:14+00:00",
+          "sha256": "c5e254def40abcd8503159a5102e7ea66de354cedda153688bb911955aaf061c"
+        }
+      ],
+      "title": "MARS-101座席予約装置のシステムの設計",
+      "url": "https://www.hitachihyoron.com/jp/pdf/1964/06/1964_06_17.pdf"
+    },
+    "S14": {
+      "captures": [
+        {
+          "bytes": 3435626,
+          "final_url": "https://www.hitachihyoron.com/jp/pdf/1964/06/1964_06_20.pdf",
+          "local_object": "objects/278858ccd9a0004684c9531b519f61f40df08325c054be7fa1fcce2ac2d1d92a.pdf",
+          "media_type": "application/pdf",
+          "retrieved_at_utc": "2026-11-08T23:39:42+00:00",
+          "sha256": "278858ccd9a0004684c9531b519f61f40df08325c054be7fa1fcce2ac2d1d92a"
+        }
+      ],
+      "title": "MARS-101座席予約操作プログラム",
+      "url": "https://www.hitachihyoron.com/jp/pdf/1964/06/1964_06_20.pdf"
+    },
+    "S15": {
+      "captures": [
+        {
+          "bytes": 4111390,
+          "final_url": "https://www.hitachihyoron.com/jp/pdf/1964/06/1964_06_22.pdf",
+          "local_object": "objects/fbca343857858c7b16600ff67686b24d5c34eea27e913e23df4ca55f3190f98a.pdf",
+          "media_type": "application/pdf",
+          "retrieved_at_utc": "2026-11-08T23:40:14+00:00",
+          "sha256": "fbca343857858c7b16600ff67686b24d5c34eea27e913e23df4ca55f3190f98a"
+        }
+      ],
+      "title": "MARS-101座席予約用電信交換装置",
+      "url": "https://www.hitachihyoron.com/jp/pdf/1964/06/1964_06_22.pdf"
+    },
+    "S16": {
+      "captures": [
+        {
+          "bytes": 15133,
+          "final_url": "https://www.hitachihyoron.com/jp/archive/1960s/1964/06.html",
+          "local_object": "objects/c7ee339c886a5168a0a9edc6cdb3e3dfe5ec82c86b782ce1ca0e5b75dcae2193.html",
+          "media_type": "text/html",
+          "retrieved_at_utc": "2026-11-08T23:40:19+00:00",
+          "sha256": "c7ee339c886a5168a0a9edc6cdb3e3dfe5ec82c86b782ce1ca0e5b75dcae2193"
+        }
+      ],
+      "title": "日立評論1964年6号目次「座席予約システム特集」",
+      "url": "https://www.hitachihyoron.com/jp/archive/1960s/1964/06.html"
+    },
+    "S17": {
+      "captures": [
+        {
+          "bytes": 5558944,
+          "final_url": "https://www.hitachihyoron.com/jp/pdf/1961/ex39/1961_ex_39_09.pdf",
+          "local_object": "objects/b11b31048825dca208a5cf616bca985919c6035e81b76d10bb7d6cde00df793d.pdf",
+          "media_type": "application/pdf",
+          "retrieved_at_utc": "2026-11-08T23:39:42+00:00",
+          "sha256": "b11b31048825dca208a5cf616bca985919c6035e81b76d10bb7d6cde00df793d"
+        }
+      ],
+      "title": "座席予約用電子計算装置MARS-1について",
+      "url": "https://www.hitachihyoron.com/jp/pdf/1961/ex39/1961_ex_39_09.pdf"
+    },
+    "S18": {
+      "captures": [
+        {
+          "bytes": 3324898,
+          "final_url": "https://www.hitachihyoron.com/jp/pdf/1974/02/1974_02_06.pdf",
+          "local_object": "objects/058f1180c38bb4547bc053d7c19e95a674736e8f73cdc157991888793a4a9a2b.pdf",
+          "media_type": "application/pdf",
+          "retrieved_at_utc": "2026-11-08T23:40:19+00:00",
+          "sha256": "058f1180c38bb4547bc053d7c19e95a674736e8f73cdc157991888793a4a9a2b"
+        }
+      ],
+      "title": "MARS-105座席予約端局装置の設計報告",
+      "url": "https://www.hitachihyoron.com/jp/pdf/1974/02/1974_02_06.pdf"
+    },
+    "S19": {
+      "captures": [
+        {
+          "bytes": 4655249,
+          "final_url": "https://www.hitachihyoron.com/jp/pdf/1974/04/1974_04_15.pdf",
+          "local_object": "objects/d39b4a3710414a85c2cc524d125ef64e778e92ddde7c9ae70fc133eaf2ff997b.pdf",
+          "media_type": "application/pdf",
+          "retrieved_at_utc": "2026-11-08T23:39:48+00:00",
+          "sha256": "d39b4a3710414a85c2cc524d125ef64e778e92ddde7c9ae70fc133eaf2ff997b"
+        }
+      ],
+      "title": "MARS-105信頼性設計報告",
+      "url": "https://www.hitachihyoron.com/jp/pdf/1974/04/1974_04_15.pdf"
+    },
+    "S20": {
+      "captures": [
+        {
+          "bytes": 3025938,
+          "final_url": "https://www.hitachihyoron.com/jp/pdf/1975/09/1975_09_03.pdf",
+          "local_object": "objects/730a5dd697d8b1588dd9851d39221a52972bc94456f4fd3cc12d54ade939ce4a.pdf",
+          "media_type": "application/pdf",
+          "retrieved_at_utc": "2026-11-08T23:40:24+00:00",
+          "sha256": "730a5dd697d8b1588dd9851d39221a52972bc94456f4fd3cc12d54ade939ce4a"
+        }
+      ],
+      "title": "MARS-105システム拡張・構成に関する報告",
+      "url": "https://www.hitachihyoron.com/jp/pdf/1975/09/1975_09_03.pdf"
+    },
+    "S21": {
+      "captures": [
+        {
+          "bytes": 23021,
+          "final_url": "https://museum.ipsj.or.jp/computer/main/0006.html",
+          "local_object": "objects/1cf012f7c66a850f363487ce0d1b55e07911a1907393a4727437095d5bb61f13.html",
+          "media_type": "text/html",
+          "retrieved_at_utc": "2026-11-08T23:40:24+00:00",
+          "sha256": "1cf012f7c66a850f363487ce0d1b55e07911a1907393a4727437095d5bb61f13"
+        }
+      ],
+      "title": "MARS-101以降の歴史",
+      "url": "https://museum.ipsj.or.jp/computer/main/0006.html"
+    },
+    "S22": {
+      "captures": [
+        {
+          "bytes": 11534,
+          "final_url": "https://museum.ipsj.or.jp/heritage/mars-1.html",
+          "local_object": "objects/c880008835046d0c2670a5cd378256e557b76fd814f20fd992aa1ff2024ed6ee.html",
+          "media_type": "text/html",
+          "retrieved_at_utc": "2026-11-08T23:40:24+00:00",
+          "sha256": "c880008835046d0c2670a5cd378256e557b76fd814f20fd992aa1ff2024ed6ee"
+        }
+      ],
+      "title": "MARS-1技術遺産記録",
+      "url": "https://museum.ipsj.or.jp/heritage/mars-1.html"
+    },
+    "S23": {
+      "captures": [
+        {
+          "bytes": 10872,
+          "final_url": "https://museum.ipsj.or.jp/heritage/mars105souchi.html",
+          "local_object": "objects/f5476b5099f83a11b835a564dc6b6757ba02c0f70167ed662ab97624e766dcc6.html",
+          "media_type": "text/html",
+          "retrieved_at_utc": "2026-11-08T23:40:24+00:00",
+          "sha256": "f5476b5099f83a11b835a564dc6b6757ba02c0f70167ed662ab97624e766dcc6"
+        }
+      ],
+      "title": "MARS-105端局装置の技術遺産記録",
+      "url": "https://museum.ipsj.or.jp/heritage/mars105souchi.html"
+    },
+    "S24": {
+      "captures": [
+        {
+          "bytes": 3902776,
+          "final_url": "https://ethw-images.s3.us-east-va.perf.cloud.ovh.us/ethw/c/c6/Reference02_RRR_201912.pdf",
+          "local_object": "objects/ea9b093b8ba62d46052f4cbc34874e034b98e2aab3dc6428e1b3e01c9f7ee9d8.pdf",
+          "media_type": "application/pdf",
+          "retrieved_at_utc": "2026-11-08T23:40:30+00:00",
+          "sha256": "ea9b093b8ba62d46052f4cbc34874e034b98e2aab3dc6428e1b3e01c9f7ee9d8"
+        }
+      ],
+      "title": "鉄道総研研究者によるMARS開発史の回顧",
+      "url": "https://ethw-images.s3.us-east-va.perf.cloud.ovh.us/ethw/c/c6/Reference02_RRR_201912.pdf"
+    },
+    "S25": {
+      "captures": [
+        {
+          "bytes": 23945,
+          "final_url": "https://www.rtri.or.jp/eng/press/nr20250829.html",
+          "local_object": "objects/4c31f4a38f5b653be4bf788c461bb33a16db629c2ec4b5c8d98e8396aa20f504.html",
+          "media_type": "text/html",
+          "retrieved_at_utc": "2026-11-08T23:40:31+00:00",
+          "sha256": "4c31f4a38f5b653be4bf788c461bb33a16db629c2ec4b5c8d98e8396aa20f504"
+        }
+      ],
+      "title": "MARS-1の顕彰に関する共同発表",
+      "url": "https://www.rtri.or.jp/eng/press/nr20250829.html"
+    },
+    "S26": {
+      "captures": [
+        {
+          "bytes": 51431,
+          "final_url": "https://ethw.org/Milestones:MARS-1_%E2%80%94_First_Automated_Railway_Booking_System,_1960",
+          "local_object": "objects/336eb988562cd384c8badfbbe2688915997be9cdb10c774a982f4d390cccb1be.html",
+          "media_type": "text/html",
+          "retrieved_at_utc": "2026-11-08T23:40:29+00:00",
+          "sha256": "336eb988562cd384c8badfbbe2688915997be9cdb10c774a982f4d390cccb1be"
+        }
+      ],
+      "title": "IEEE History Center MARS-1マイルストーン",
+      "url": "https://ethw.org/Milestones:MARS-1_%E2%80%94_First_Automated_Railway_Booking_System,_1960"
+    },
+    "S27": {
+      "captures": [
+        {
+          "bytes": 4307673,
+          "final_url": "https://www.hitachihyoron.com/jp/pdf/1983/06/1983_06_10.pdf",
+          "local_object": "objects/d2539048cfbb1ca3e68430e244d3213fc946b0696546b79b094c73c8ee83a28a.pdf",
+          "media_type": "application/pdf",
+          "retrieved_at_utc": "2026-11-08T23:40:28+00:00",
+          "sha256": "d2539048cfbb1ca3e68430e244d3213fc946b0696546b79b094c73c8ee83a28a"
+        }
+      ],
+      "title": "MARS-301向け端局制御装置の技術報告",
+      "url": "https://www.hitachihyoron.com/jp/pdf/1983/06/1983_06_10.pdf"
+    },
+    "S28": {
+      "captures": [
+        {
+          "bytes": 16371654,
+          "final_url": "https://www.hitachihyoron.com/jp/pdf/1986/01/1986_01_04.pdf",
+          "local_object": "objects/994174ae65969b725844610e7a1df8b7c409cd26ea78d3cd58a9a0bdb1ad1035.pdf",
+          "media_type": "application/pdf",
+          "retrieved_at_utc": "2026-11-08T23:40:35+00:00",
+          "sha256": "994174ae65969b725844610e7a1df8b7c409cd26ea78d3cd58a9a0bdb1ad1035"
+        }
+      ],
+      "title": "MARS-301構成・納入に関する報告",
+      "url": "https://www.hitachihyoron.com/jp/pdf/1986/01/1986_01_04.pdf"
+    },
+    "S29": {
+      "captures": [
+        {
+          "bytes": 5862146,
+          "final_url": "https://www.hitachihyoron.com/jp/pdf/1975/09/1975_09_02.pdf",
+          "local_object": "objects/0a5066f581e64acad7e119956b6dfbcf055fbd10f800b534fecde3672a036d65.pdf",
+          "media_type": "application/pdf",
+          "retrieved_at_utc": "2026-11-08T23:40:34+00:00",
+          "sha256": "0a5066f581e64acad7e119956b6dfbcf055fbd10f800b534fecde3672a036d65"
+        }
+      ],
+      "title": "オンラインシステムの動向と評価",
+      "url": "https://www.hitachihyoron.com/jp/pdf/1975/09/1975_09_02.pdf"
+    },
+    "S30": {
+      "captures": [
+        {
+          "bytes": 8231122,
+          "final_url": "https://www.hitachihyoron.com/jp/pdf/1974/01/1974_01_06.pdf",
+          "local_object": "objects/43a74bf16f88a47bf5b102ce1cedec2022b87080d896871cb71888a72e41e0ba.pdf",
+          "media_type": "application/pdf",
+          "retrieved_at_utc": "2026-11-08T23:40:34+00:00",
+          "sha256": "43a74bf16f88a47bf5b102ce1cedec2022b87080d896871cb71888a72e41e0ba"
+        }
+      ],
+      "title": "MARS-105稼働・移行に関する報告",
+      "url": "https://www.hitachihyoron.com/jp/pdf/1974/01/1974_01_06.pdf"
+    },
+    "S31": {
+      "captures": [
+        {
+          "bytes": 1834308,
+          "final_url": "https://museum.ipsj.or.jp/guide/pdf/magazine/IPSJ-MGN520938.pdf",
+          "local_object": "objects/750c3bedd44ddf0b253c701bb2dccabd09b25fcd66b797173e190f81d3126d1c.pdf",
+          "media_type": "application/pdf",
+          "retrieved_at_utc": "2026-11-08T23:40:38+00:00",
+          "sha256": "750c3bedd44ddf0b253c701bb2dccabd09b25fcd66b797173e190f81d3126d1c"
+        }
+      ],
+      "title": "穂坂衛氏インタビュー",
+      "url": "https://museum.ipsj.or.jp/guide/pdf/magazine/IPSJ-MGN520938.pdf"
+    },
+    "S32": {
+      "captures": [
+        {
+          "bytes": 1599960,
+          "final_url": "https://museum.ipsj.or.jp/guide/pdf/magazine/IPSJ-MGN540722.pdf",
+          "local_object": "objects/9a97e7b55e49c83fa1cdc931a6d1b6356b560a6c7265ba118bf05f7ed2fa7786.pdf",
+          "media_type": "application/pdf",
+          "retrieved_at_utc": "2026-11-08T23:40:38+00:00",
+          "sha256": "9a97e7b55e49c83fa1cdc931a6d1b6356b560a6c7265ba118bf05f7ed2fa7786"
+        }
+      ],
+      "title": "大野豊氏インタビュー",
+      "url": "https://museum.ipsj.or.jp/guide/pdf/magazine/IPSJ-MGN540722.pdf"
+    },
+    "S33": {
+      "captures": [
+        {
+          "bytes": 1663987,
+          "final_url": "https://museum.ipsj.or.jp/guide/pdf/magazine/IPSJ-MGN541015.pdf",
+          "local_object": "objects/de11c64817c7af9b2fc827eb912914022773be6f99c920504cbf6fac7f845461.pdf",
+          "media_type": "application/pdf",
+          "retrieved_at_utc": "2026-11-08T23:40:38+00:00",
+          "sha256": "de11c64817c7af9b2fc827eb912914022773be6f99c920504cbf6fac7f845461"
+        }
+      ],
+      "title": "尾関雅則氏インタビュー",
+      "url": "https://museum.ipsj.or.jp/guide/pdf/magazine/IPSJ-MGN541015.pdf"
+    },
+    "S34": {
+      "captures": [
+        {
+          "bytes": 10592,
+          "final_url": "https://museum.ipsj.or.jp/pioneer/hosaka.html",
+          "local_object": "objects/92581ae42925adda31ebb9223c77d771fdf19caa16ba1cde3b66996ec0825d42.html",
+          "media_type": "text/html",
+          "retrieved_at_utc": "2026-11-08T23:40:36+00:00",
+          "sha256": "92581ae42925adda31ebb9223c77d771fdf19caa16ba1cde3b66996ec0825d42"
+        }
+      ],
+      "title": "穂坂衛の技術史略歴",
+      "url": "https://museum.ipsj.or.jp/pioneer/hosaka.html"
+    },
+    "S35": {
+      "captures": [
+        {
+          "bytes": 6299,
+          "final_url": "https://www.kahaku.go.jp/exhibitions/vm/past_parmanent/rikou/computer/MARS101.html",
+          "local_object": "objects/4cf45660a93dbeadb2a3aeaaf995c6ee55697e4ed4e0ad0d14167d815f4117c6.html",
+          "media_type": "text/html",
+          "retrieved_at_utc": "2026-11-08T23:40:42+00:00",
+          "sha256": "4cf45660a93dbeadb2a3aeaaf995c6ee55697e4ed4e0ad0d14167d815f4117c6"
+        }
+      ],
+      "title": "MARS-101の博物館展示",
+      "url": "https://www.kahaku.go.jp/exhibitions/vm/past_parmanent/rikou/computer/MARS101.html"
+    }
+  }
+}
