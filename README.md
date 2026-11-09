@@ -21,6 +21,7 @@ MARS-1 は固定論理回路、MARS-101 はプログラム内蔵方式であり�
 | 対象 | 状態 | 主張できる範囲 |
 |---|---|---|
 | MARS-101 論理実験 | 稼働・検証済み | 区間ビットマップ、予約・取消、二系統照合、操作記録・再生監査を部分再構成 |
+| MARS-1 設計判断の対照実験 | 第1回のモデル計測完了 | 原著の磁気ドラム制約で座席の物理配置・探索順の3方式を比較。独立盲検ではない |
 | MARS-101 実機の命令体系・端局プロトコル | 未再現 | 史料整理と実装境界の確定が必要 |
 | MARS-105以降 | 複数世代の原著・証言を一次整理済み | 原構造・時点の特定前に実装方式を固定しない |
 | 多言語比較 | 検証契約を準備 | 歴史的再現と独立して実施 |
@@ -41,6 +42,19 @@ MARS-1 は固定論理回路、MARS-101 はプログラム内蔵方式であり�
 
 - [史料登録簿と未取得資料一覧](docs/SOURCE_REGISTER.md)
 - [原理を再現する際の同一性と未確定事項](docs/RECONSTRUCTION_BOUNDARIES.md)
+
+### MARS-1 制約からの設計再導出と不採用案
+
+1961年原著の原図から3区間、3,000rpm、40万ビット、50ボー等を確定し、同じ架空予約を3つの**回転記憶のデータ配置と探索方式**で対照。座席結果と状態の同一性を確認してから媒体待ち時間を比較する。シリアルな記憶媒体では、優先順と物理的配置を揃えることが性能に大きく影響するという条件付きの工学的因果を検証した。数値は現代の数学モデルであり、原機性能の復元・独立盲検の再設計完了を意味しない。
+
+```bash
+python3 experiments/mars1-design-decisions/design_lab.py run --summary
+python3 -m unittest discover -s experiments/mars1-design-decisions/tests -v
+```
+
+- [独立設計者向けの与件（実在案の答えを伏せたもの）](experiments/mars1-design-decisions/DESIGN_BRIEF.md)
+- [3方式の実装と検証境界](experiments/mars1-design-decisions/README.md)
+- [原典ページ・派生値・対照計算・採用判定の限界](docs/research/MARS1_CONSTRAINT_DECISION_AUDIT_2026-11-09.md)
 
 ### 最初の通し実験
 

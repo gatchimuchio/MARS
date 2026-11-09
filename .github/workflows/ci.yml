@@ -38,3 +38,16 @@ jobs:
         working-directory: experiments/mars101-logical
         run: python mars101_lab.py demo
 
+  mars1-design-decisions:
+    name: MARS-1 constrained design alternatives
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-python@v7
+        with:
+          python-version: '3.12'
+      - name: Check identical booking results and physical timing model
+        run: python -m unittest discover -s experiments/mars1-design-decisions/tests -v
+      - name: Run counterfactual comparison
+        run: python experiments/mars1-design-decisions/design_lab.py run --summary
+
